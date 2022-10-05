@@ -2,7 +2,7 @@
 
 ### Objetivo do projeto:
 
-Realizar a raspagem de informações sobre os personagens do jogo rpg Stardew Valley,
+Realizar a raspagem de informações sobre os personagens do jogo de rpg Stardew Valley,
 trazendo o nome, link para acesso a imagem e um link para as informações gerais.
 
 ### Tecnologias usadas:
